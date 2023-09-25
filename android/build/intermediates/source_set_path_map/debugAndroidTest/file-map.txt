@@ -1,0 +1,5 @@
+com.tasteoftranquility.game.test.android-androidTest-0 C:\Users\luciu\Downloads\Meu Jogo\android\build\generated\res\resValues\androidTest\debug
+com.tasteoftranquility.game.test.android-androidTest-1 C:\Users\luciu\Downloads\Meu Jogo\android\build\generated\res\rs\androidTest\debug
+com.tasteoftranquility.game.test.android-mergeDebugAndroidTestResources-2 C:\Users\luciu\Downloads\Meu Jogo\android\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.tasteoftranquility.game.test.android-mergeDebugAndroidTestResources-3 C:\Users\luciu\Downloads\Meu Jogo\android\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.tasteoftranquility.game.test.android-merged_res-4 C:\Users\luciu\Downloads\Meu Jogo\android\build\intermediates\merged_res\debugAndroidTest

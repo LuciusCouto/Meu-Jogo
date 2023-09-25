@@ -1,0 +1,17 @@
+com.tasteoftranquility.game.android-annotation-experimental-1.1.0-0 C:\Users\luciu\.gradle\caches\transforms-3\07df414e7e1c26182afac255cd330866\transformed\annotation-experimental-1.1.0\res
+com.tasteoftranquility.game.android-lifecycle-viewmodel-savedstate-2.5.1-1 C:\Users\luciu\.gradle\caches\transforms-3\1bf08bcf882d1105ff218c9138c00caa\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.tasteoftranquility.game.android-lifecycle-viewmodel-2.5.1-2 C:\Users\luciu\.gradle\caches\transforms-3\67bd9ce141f575c87b8308f854440c24\transformed\lifecycle-viewmodel-2.5.1\res
+com.tasteoftranquility.game.android-savedstate-1.2.0-3 C:\Users\luciu\.gradle\caches\transforms-3\7c3c2c03e454b6169803f5b7495932bc\transformed\savedstate-1.2.0\res
+com.tasteoftranquility.game.android-core-1.8.0-4 C:\Users\luciu\.gradle\caches\transforms-3\7caabd8edbc015da45425e540df2ef53\transformed\core-1.8.0\res
+com.tasteoftranquility.game.android-activity-1.5.1-5 C:\Users\luciu\.gradle\caches\transforms-3\8b87b21faac266d6ac18fdb5b4ae1234\transformed\activity-1.5.1\res
+com.tasteoftranquility.game.android-lifecycle-livedata-core-2.5.1-6 C:\Users\luciu\.gradle\caches\transforms-3\e331a011005fbca57bd8a513d0b1e650\transformed\lifecycle-livedata-core-2.5.1\res
+com.tasteoftranquility.game.android-fragment-1.5.7-7 C:\Users\luciu\.gradle\caches\transforms-3\ebcb751e60228b5d3cf2f99c53109b85\transformed\fragment-1.5.7\res
+com.tasteoftranquility.game.android-lifecycle-runtime-2.5.1-8 C:\Users\luciu\.gradle\caches\transforms-3\ee5023ed2c2f730f5af6daf9c3dc06d0\transformed\lifecycle-runtime-2.5.1\res
+com.tasteoftranquility.game.android-pngs-9 C:\Users\luciu\Downloads\Meu Jogo\android\build\generated\res\pngs\debug
+com.tasteoftranquility.game.android-resValues-10 C:\Users\luciu\Downloads\Meu Jogo\android\build\generated\res\resValues\debug
+com.tasteoftranquility.game.android-rs-11 C:\Users\luciu\Downloads\Meu Jogo\android\build\generated\res\rs\debug
+com.tasteoftranquility.game.android-mergeDebugResources-12 C:\Users\luciu\Downloads\Meu Jogo\android\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.tasteoftranquility.game.android-mergeDebugResources-13 C:\Users\luciu\Downloads\Meu Jogo\android\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.tasteoftranquility.game.android-merged_res-14 C:\Users\luciu\Downloads\Meu Jogo\android\build\intermediates\merged_res\debug
+com.tasteoftranquility.game.android-android-15 C:\Users\luciu\Downloads\Meu Jogo\android\res
+com.tasteoftranquility.game.android-debug-16 C:\Users\luciu\Downloads\Meu Jogo\android\src\debug\res

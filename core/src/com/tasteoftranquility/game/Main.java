@@ -5,7 +5,7 @@ import com.tasteoftranquility.game.screens.PlayGameScreen;
 
 public class Main extends Game {
 
-	public float unitScale = 1/32;
+	public float unitScale = 1/32.0f;
 	public float gameWidth = unitScale * 6;
 	public float gameHeight = unitScale * 3;
 

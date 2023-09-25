@@ -1,4 +1,12 @@
 android {
+    signingConfigs {
+        debug {
+            storeFile file('C:\\Users\\luciu\\Meu Jogo.jks')
+            storePassword 'Sete7070+'
+            keyAlias 'Key0'
+            keyPassword 'Sete7070+'
+        }
+    }
     namespace "com.tasteoftranquility.game"
     buildToolsVersion "34.0.0"
     compileSdkVersion 34

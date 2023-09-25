@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\luciu\Downloads\Meu Jogo\android"
+    name=":android"
+    type="APP"
+    maven="Meu Jogo:android:"
+    agpVersion="8.1.1"
+    buildFolder="build"
+    bootClassPath="C:\Users\luciu\AppData\Local\Android\Sdk\platforms\android-34\android.jar;C:\Users\luciu\AppData\Local\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

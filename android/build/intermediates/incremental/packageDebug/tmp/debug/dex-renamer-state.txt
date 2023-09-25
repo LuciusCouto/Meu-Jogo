@@ -1,0 +1,4 @@
+#Mon Sep 25 19:46:44 BRT 2023
+base.0=C\:\\Users\\luciu\\Downloads\\Meu Jogo\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

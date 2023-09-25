@@ -1,0 +1,31 @@
+<variant
+    name="release"
+    package="com.tasteoftranquility.game"
+    minSdkVersion="16"
+    targetSdkVersion="34"
+    shrinking="true"
+    mergedManifest="build\intermediates\merged_manifest\release\AndroidManifest.xml"
+    proguardFiles="build\intermediates\default_proguard_files\global\proguard-android.txt-8.1.1;proguard-rules.pro"
+    partialResultsDir="build\intermediates\lint_vital_partial_results\release\out"
+    desugaredMethodsFiles="C:\Users\luciu\.gradle\caches\transforms-3\53cf5cd3ffa680b46f17ff022e72c76c\transformed\D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="AndroidManifest.xml"
+        javaDirectories="src;src\release\java;src\main\java;src\main\kotlin;src\release\kotlin"
+        resDirectories="res;src\release\res"
+        assetsDirectories="C:\Users\luciu\Downloads\Meu Jogo\assets;src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <mainArtifact
+      classOutputs="build\intermediates\javac\release\classes;build\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\R.jar"
+      applicationId="com.tasteoftranquility.game"
+      generatedSourceFolders="build\generated\ap_generated_sources\release\out;build\generated\aidl_source_output_dir\release\out;build\generated\source\buildConfig\release;build\generated\renderscript_source_output_dir\release\out"
+      generatedResourceFolders="build\generated\res\rs\release;build\generated\res\resValues\release"
+      desugaredMethodsFiles="C:\Users\luciu\.gradle\caches\transforms-3\53cf5cd3ffa680b46f17ff022e72c76c\transformed\D8BackportedDesugaredMethods.txt">
+  </mainArtifact>
+</variant>
